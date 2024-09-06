@@ -17,3 +17,4 @@ fs.readFile('exemplo.txt', 'utf8', (erro, dados) => {
   }
   console.log('Conteúdo do arquivo:', dados);
 });
+MELHOR DO MUNDO RECEBA!!!!!MELHOR DO MUNDO RECEBA!!!!!MELHOR DO MUNDO RECEBA!!!!!
